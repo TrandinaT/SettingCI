@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5n7i9wbp5wfo0009?svg=true)](https://ci.appveyor.com/project/TrandinaT/settingci-po7x2)
